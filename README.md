@@ -6,5 +6,16 @@
 
 
 
-https://github.com/sdgbkdfl/sdgbkdfl/assets/127763750/44367fae-d6f4-492d-9be8-69f439cc272f
+
+https://github.com/sdgbkdfl/sdgbkdfl/assets/127763750/4a7bf08a-5abf-4e4f-8eb1-c572b5c99770
+
+
+
+
+
+
+- 숙제 전송
+  <br>
+![숙제전송](https://github.com/sdgbkdfl/sdgbkdfl/assets/127763750/42ef5628-b619-46d1-a4e4-86bf01cc9090)
+
 
