@@ -1,11 +1,10 @@
-- 👋 Hi, I’m @sdgbkdfl
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1>팀 프로젝트(웹 사이트 구현)</h1>
+<h2>어린이 바둑 학습 사이트</h2>
 
-<!---
-sdgbkdfl/sdgbkdfl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-![그룹가입신청](https://github.com/sdgbkdfl/sdgbkdfl/assets/127763750/c03c217e-67e9-45c4-b7a8-36000b4a3113)
+- 그룹 가입 신청 
+
+
+
+
+https://github.com/sdgbkdfl/sdgbkdfl/assets/127763750/44367fae-d6f4-492d-9be8-69f439cc272f
+
