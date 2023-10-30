@@ -3,19 +3,14 @@
 
 - 그룹 가입 신청 
 
+![그룹가입신청](https://github.com/sdgbkdfl/sdgbkdfl/assets/127763750/2724b6c2-177d-4c04-8821-826c445d0ec4)
 
-
-
-
-https://github.com/sdgbkdfl/sdgbkdfl/assets/127763750/4a7bf08a-5abf-4e4f-8eb1-c572b5c99770
-
-
-
-
-
+<br>
+<br>
+<br>
 
 - 숙제 전송
-  <br>
+  
 ![숙제전송](https://github.com/sdgbkdfl/sdgbkdfl/assets/127763750/42ef5628-b619-46d1-a4e4-86bf01cc9090)
 
 
